@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as AI/ML R&D intern at Spillmate
 
-- 🌱 I’m currently learning **JavaScript, React and Django**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
