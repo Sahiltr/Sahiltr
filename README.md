@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 💬 Ask me about **Competitive Programming and Data Structures and Algorithms**
-
 - 📫 How to reach me **thakursahil1912@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
