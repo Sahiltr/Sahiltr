@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Thakur</h1>
-<h3 align="center">I am a third-year Computer Science and Engineering student. I am  a skilled and experienced competitive programmer with a passion for technical problem-solving and sound proficiency in Machine Learning and Development. Open to collaborate, learn, and contribute to projects with other developers.</h3>
+<h3 align="center">I am a Final-year Computer Science and Engineering student. I am  a skilled and experienced competitive programmer with a passion for technical problem-solving and sound proficiency in Machine Learning and Development. Open to collaborate, learn, and contribute to projects with other developers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiltr&label=Profile%20views&color=0e75b6&style=flat" alt="sahiltr" /> </p>
 
