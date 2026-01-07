@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahiltr" alt="sahiltr" /></a> </p>
 
-- 🔭 I’m currently working as AI/ML R&D intern at Spillmate
+- 🔭 I’m currently working as Associate DXP Support Engineer at Acquia
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Java, Docker, Kubernetes**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
